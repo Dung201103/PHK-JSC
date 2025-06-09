@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SV21T1020589CLIENT.DataLayers
-build_property.ProjectDir = C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\
+build_property.ProjectDir = C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

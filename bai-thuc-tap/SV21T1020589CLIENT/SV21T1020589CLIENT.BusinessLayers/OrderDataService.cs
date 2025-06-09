@@ -1,5 +1,5 @@
 ﻿using SV21T1020589CLIENT.BusinessLayers;
-using SV21T1020589CLIENT.DataLayers.SQLServer;
+using SV21T1020589CLIENT.DataLayers.SQLite;
 using SV21T1020589CLIENT.DataLayers;
 using SV21T1020589CLIENT.DomainModels;
 
@@ -14,7 +14,7 @@ namespace SV21T1020589CLIENT.BusinessLayers
         /// </summary>
         static OrderDataService()
         {
-			string connectionString = @"Server=DESKTOP-IT9GPIL;user id=sa;password=12345678;Database=LiteComerceDB;TrustServerCertificate=True";
+			string connectionString = @"Data Source=D:\Lite.db;";
 			orderDB = new OrderDAL(connectionString);
         }
 

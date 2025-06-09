@@ -1,153 +1,193 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\",
+  "WorkspaceRootPath": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\customer\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\customer\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\models\\paginationsearchinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\models\\paginationsearchinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.businesslayers\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.businesslayers\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.businesslayers\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.businesslayers\\productdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.businesslayers\\productdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\productdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\_basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\_basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.domainmodels\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.businesslayers\\sv21t1020589client.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\sv21t1020589client.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\sv21t1020589client.datalayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sv21t1020589client.datalayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.domainmodels\\sv21t1020589client.domainmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\sv21t1020589client.domainmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlserver\\_basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlserver\\_basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\iuseraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\iuseraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\isimplequerydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\isimplequerydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlserver\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlserver\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\wwwroot\\theme\\images\\noavatar.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\wwwroot\\theme\\images\\noavatar.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\wwwroot\\theme\\images\\cp.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\wwwroot\\theme\\images\\cp.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.domainmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.datalayers\\icommondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\icommondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\icommondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.domainmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.businesslayers\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.businesslayers\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.businesslayers\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.businesslayers\\sv21t1020589client.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\sv21t1020589client.businesslayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sv21t1020589client.datalayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sv21t1020589client.datalayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\customeraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\customeraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\appcodes\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\appcodes\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\appcodes\\webuserextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\appcodes\\webuserextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\isimplequerydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\isimplequerydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\supplierdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\supplierdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\shipperdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\shipperdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\sqlite\\provincedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\sqlite\\provincedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.datalayers\\iuseraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DF3052-7EAC-42E9-AF02-4FCAE1DC77C7}|SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj|solutionrelative:sv21t1020589client.datalayers\\iuseraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\customer\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\customer\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\models\\paginationsearchinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\models\\paginationsearchinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.domainmodels\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.domainmodels\\sv21t1020589client.domainmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\sv21t1020589client.domainmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\wwwroot\\theme\\images\\noavatar.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\wwwroot\\theme\\images\\noavatar.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\wwwroot\\theme\\images\\cp.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\wwwroot\\theme\\images\\cp.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.domainmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.domainmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF19FD1-DFB5-4BE9-9B27-C8F070F89C62}|SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj|solutionrelative:sv21t1020589client.domainmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\sv21t1020589client\\sv21t1020589client.web\\views\\order\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\bai-thuc-tap\\bai-thuc-tap\\sv21t1020589client\\sv21t1020589client.web\\views\\order\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\order\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -158,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 153,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,312 +210,505 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonDataservice.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:37:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\appsettings.json",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T03:39:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDataService.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:41:34.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDataService.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:10:08.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:40:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_BaseDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:40:46.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:34:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDataService.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:41:41.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:41:50.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SV21T1020589CLIENT.BusinessLayers.csproj",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
+              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T04:16:32.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SV21T1020589CLIENT.DataLayers.csproj",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T04:16:31.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:03:44.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:10:39.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerAccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:21:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T10:48:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\AppCodes\\Converter.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\AppCodes\\Converter.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\AppCodes\\Converter.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\AppCodes\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:48:41.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebUserExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\AppCodes\\WebUserExtensions.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\AppCodes\\WebUserExtensions.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\AppCodes\\WebUserExtensions.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\AppCodes\\WebUserExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:48:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Program.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:39:22.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISimpleQueryDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:16:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IOrderDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IOrderDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IOrderDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\IOrderDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:00:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICustomerDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:41:04.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupplierDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:41:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShipperDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:37:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProvinceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:35:05.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:40:59.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserAccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:40:39.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Category.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\Category.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Category.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DomainModels\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:40:28.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-05T14:22:17.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditProfile.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T14:16:27.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T05:05:16.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T05:05:10.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T05:05:09.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PaginationSearchInput.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T05:04:50.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 29,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T05:01:01.339Z"
+              "WhenOpened": "2025-06-05T05:01:01.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T04:57:59.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CommonDataservice.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACHAAAAAAAAAA==",
+              "DocumentIndex": 35,
+              "Title": "PaginationSearchInput.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:37:47.76Z"
+              "WhenOpened": "2025-06-05T05:04:50.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:41:50.716Z"
+              "WhenOpened": "2025-06-05T05:05:09.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerDataService.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACHAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T04:10:08.8Z"
+              "WhenOpened": "2025-06-05T05:05:10.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:05:16.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T14:16:27.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T04:57:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:08:43.685Z"
+              "WhenOpened": "2025-01-07T02:08:43.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderDataService.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:41:41.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductDataService.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:41:34.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\appsettings.json",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T03:39:58.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Category.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\Category.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Category.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DomainModels\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:40:28.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Program.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Program.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwD8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:39:22.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SV21T1020589CLIENT.BusinessLayers.csproj",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
-              "RelativeToolTip": "SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T04:16:32.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 36,
               "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Constants.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Constants.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\Constants.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Constants.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Constants.cs",
               "RelativeToolTip": "SV21T1020589CLIENT.DomainModels\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:40:26.659Z"
+              "WhenOpened": "2025-06-05T03:40:26.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SV21T1020589CLIENT.DataLayers.csproj",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T04:16:31.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "SV21T1020589CLIENT.DomainModels.csproj",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
               "RelativeToolTip": "SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-05T04:16:28.221Z"
+              "WhenOpened": "2025-06-05T04:16:28.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ISimpleQueryDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T04:16:20.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "OrderDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLServer\\OrderDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLServer\\OrderDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLServer\\OrderDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLServer\\OrderDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T04:10:39.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_BaseDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLServer\\_BaseDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLServer\\_BaseDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\SQLServer\\_BaseDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLServer\\_BaseDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:40:46.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IUserAccountDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:40:39.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "noavatar.jpg - Bitmap [360x360, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg - Bitmap [360x360, 24 bit, JPG]",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg - Bitmap [360x360, 24 bit, JPG]",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg - Bitmap [360x360, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-06-05T03:42:24.793Z",
@@ -483,11 +716,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 39,
               "Title": "cp.jpg - Bitmap [1538x2048, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg - Bitmap [1538x2048, 24 bit, JPG]",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg - Bitmap [1538x2048, 24 bit, JPG]",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg - Bitmap [1538x2048, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-06-05T03:42:14.62Z",
@@ -495,123 +728,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "UserAccount.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
               "RelativeToolTip": "SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:41:10.292Z"
+              "WhenOpened": "2025-06-05T03:41:10.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ICustomerDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:41:04.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IProductDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:40:59.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ICommonDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:40:35.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Customer.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\Customer.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Customer.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\Customer.cs",
               "RelativeToolTip": "SV21T1020589CLIENT.DomainModels\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:40:29.534Z"
+              "WhenOpened": "2025-06-05T03:40:29.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T03:46:16.88Z"
+              "WhenOpened": "2025-01-07T03:46:16.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:42:35.854Z"
+              "WhenOpened": "2025-01-07T03:42:35.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T04:42:50.447Z"
+              "WhenOpened": "2025-01-07T04:42:50.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwDcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T05:02:18.715Z"
+              "WhenOpened": "2025-01-07T05:02:18.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "ShoppingCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\b\u00E0i th\u1EF1c t\u1EADp\\b\u00E0i th\u1EF1c t\u1EADp\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAIBJwC0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBZwC0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T02:08:51.859Z"
+              "WhenOpened": "2025-01-07T02:08:51.859Z",
+              "EditorCaption": ""
             }
           ]
         },

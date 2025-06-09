@@ -43,3 +43,19 @@ C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV
 C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\refint\SV21T1020589CLIENT.DataLayers.dll
 C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.pdb
 C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\ref\SV21T1020589CLIENT.DataLayers.dll
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.csproj.AssemblyReference.cache
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.AssemblyInfoInputs.cache
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.AssemblyInfo.cs
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.sourcelink.json
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.dll
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\refint\SV21T1020589CLIENT.DataLayers.dll
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T1020589CLIENT.DataLayers.pdb
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.deps.json
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.dll
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.pdb
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.dll
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.pdb
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\SV21T102.3FE7A475.Up2Date
+C:\Users\DRA\Downloads\bai-thuc-tap\bai-thuc-tap\SV21T1020589CLIENT\SV21T1020589CLIENT.DataLayers\obj\Debug\net8.0\ref\SV21T1020589CLIENT.DataLayers.dll

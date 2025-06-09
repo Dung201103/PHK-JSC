@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASiI2zGtKHI=",
+  "dgSpecHash": "QQz5eyFMnVQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
+  "projectFilePath": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DRA\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

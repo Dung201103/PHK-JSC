@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj": {}
+    "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj": {
+    "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
+        "projectUniqueName": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
         "projectName": "SV21T1020589CLIENT.DomainModels",
-        "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
+        "projectPath": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
         "packagesPath": "C:\\Users\\DRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\obj\\",
+        "outputPath": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.DomainModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
