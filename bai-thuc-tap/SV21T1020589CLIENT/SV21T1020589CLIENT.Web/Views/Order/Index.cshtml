@@ -1,0 +1,137 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div>
+	<button class="back-btn" onclick="history.back()">
+		<i class="bi bi-arrow-left"></i> Quay lại
+	</button>
+	<h4 class="text-center">TRANG GIỎ HÀNG</h4>
+</div>
+
+<section class="bg-light py-5">
+    <div class="container">
+        <div class="row">
+            <!-- Giỏ hàng bên trái -->
+            <div class="col-md-8">
+                <h4>Danh sách mặt hàng đã chọn</h4>
+                <div id="shoppingCart" class="table-responsive border rounded p-3" style="max-height: 500px; overflow-y: auto;">
+                   
+                </div>
+            </div>
+
+            <!-- Form thông tin khách hàng bên phải -->
+			@{
+				var userData = User.GetUserData();
+			}
+            <div class="col-md-4">
+                <form id="fmOrderInit" action="~/Order/Init" method="post" class="p-4 border rounded bg-light">
+                    <h4 class="mb-4">Thông tin về khách hàng và địa chỉ giao hàng</h4>
+
+                    <!-- Khách hàng -->
+                    <div class="mb-3">
+                        <label class="form-label">Khách hàng:</label>
+                        <div class="d-flex align-items-center">
+                            <input type="hidden" name="customerID" value="@userData.CustomerID" />
+							<input type="text" value="@userData.CustomerName" class="form-control me-2" readonly/>
+                        </div>
+                    </div>
+
+                    <!-- Tỉnh/Thành -->
+                    <div class="mb-3">
+                        <label class="form-label">Tỉnh/thành:</label>
+                        <select class="form-select" name="deliveryProvince">
+                            <option value="0">-- Chọn tỉnh/thành --</option>
+                            @foreach (var province in SV21T1020589CLIENT.BusinessLayers.CommonDataService.ListOffProvinces())
+                            {
+                                if (province.ProvinceName == userData.Province)
+                                {
+                                    <option selected value="@province.ProvinceName">@province.ProvinceName</option>
+                                }
+                                else
+                                {
+                                    <option value="@province.ProvinceName">@province.ProvinceName</option>
+                                }
+                            }
+                        </select>
+                    </div>
+
+                    <!-- Địa chỉ nhận hàng -->
+                    <div class="mb-3">
+                        <label class="form-label">Địa chỉ nhận hàng:</label>
+                        <input type="text" class="form-control" name="deliveryAddress" value="@userData.Address" placeholder="Nhập địa chỉ nhận hàng" />
+                    </div>
+
+                    <!-- Thông báo lỗi -->
+                    <div class="mb-3">
+                        <span id="error-message" class="text-danger"></span>
+                    </div>
+
+                    <!-- Nút lập đơn hàng -->
+                    <div class="text-end">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fa fa-plus-circle"></i> Lập đơn hàng
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section scripts {
+	<script>
+		$(document).ready(function () {
+			showShoppingCart();
+
+			//Form xác nhận thanh toán
+			$("#fmOrderInit").submit(function (e) {
+				e.preventDefault();
+
+				$.ajax({
+					url: $(this).prop("action"),
+					type: $(this).prop("method"),
+					data: $(this).serializeArray(),
+					success: function (result) {
+						if (isNaN(result)) {
+							$("#error-message").html(result);
+						} else {
+							window.location.href = "Order/History";
+						}
+					},
+					error: function (xhr, status, error) {
+						$("#error-message").html("Đã xảy ra lỗi: " + xhr.responseText || error);
+					}
+				});
+			})
+		})
+
+		// function showShoppingCart() {
+		// 	$.ajax({
+		// 		url: "ShoppingCart",
+		// 		type: 'GET',
+		// 		success: function (data) {
+		// 			$('#shoppingCart').html(data);
+		// 		}
+		// 	});
+		// }
+		function showShoppingCart() {
+			$.ajax({
+				url: "Order/ShoppingCart", // URL để lấy dữ liệu giỏ hàng
+				type: 'GET',
+				success: function (data) {
+					// Nếu thành công, hiển thị nội dung giỏ hàng
+					$('#shoppingCart').html(data);
+				},
+				error: function (xhr, status, error) {
+					// Xử lý lỗi và hiển thị thông báo
+					console.error("Lỗi khi tải giỏ hàng:", error);
+					$('#shoppingCart').html('<p class="text-danger">Không thể tải giỏ hàng. Vui lòng thử lại sau.</p>');
+				}
+			});
+		}
+	</script>
+}

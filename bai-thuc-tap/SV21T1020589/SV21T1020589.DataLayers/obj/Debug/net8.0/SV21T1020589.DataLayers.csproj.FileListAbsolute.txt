@@ -1,0 +1,45 @@
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.deps.json
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.dll
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.pdb
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.AssemblyInfoInputs.cache
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.AssemblyInfo.cs
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.csproj.CoreCompileInputs.cache
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.dll
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\refint\SV21T1020589.DataLayers.dll
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.pdb
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\ref\SV21T1020589.DataLayers.dll
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DomainModels.dll
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DomainModels.pdb
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.csproj.AssemblyReference.cache
+D:\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T102.10AD1693.Up2Date
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.deps.json
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.pdb
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DomainModels.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DomainModels.pdb
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.AssemblyInfo.cs
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T102.10AD1693.Up2Date
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\refint\SV21T1020589.DataLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.pdb
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\ref\SV21T1020589.DataLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.deps.json
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DataLayers.pdb
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DomainModels.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\bin\Debug\net8.0\SV21T1020589.DomainModels.pdb
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.csproj.AssemblyReference.cache
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.AssemblyInfoInputs.cache
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.AssemblyInfo.cs
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T102.10AD1693.Up2Date
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\refint\SV21T1020589.DataLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\SV21T1020589.DataLayers.pdb
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589\SV21T1020589.DataLayers\obj\Debug\net8.0\ref\SV21T1020589.DataLayers.dll

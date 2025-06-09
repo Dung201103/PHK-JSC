@@ -1,0 +1,82 @@
+﻿@model SV21T1020589CLIENT.Web.Models.ProductSearchResult
+@{
+    Layout = null;
+}
+
+<div class="row row-cols-1 row-cols-md-4 g-4">
+    @foreach (var item in Model.Data)
+    {
+        <div class="col">
+            <div class="card h-100 shadow-sm position-relative">
+                <a href="~/Product/Detail/@item.ProductID">
+                    <div class="col product-image">
+                        <img src="@((item.Photo == "") ? Url.Content("http://localhost:24873/images/products/macbook.png") : Url.Content("http://localhost:24873/images/products/" + @item.Photo))"
+                             class="card-img-top" alt="@item.ProductName">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@item.ProductName</h5>
+                        <p class="card-text">Giá: @string.Format("{0:N0}", @item.Price) VND</p>
+                        <a href="~/Product/Detail/@item.ProductID" class="btn btn-secondary buy-btn">Mua Ngay</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+</div>
+
+
+@* <div class="row row-cols-1 row-cols-md-4 g-4">
+    @foreach (var item in Model.Data)
+    {
+        <div class="col">
+            <div class="card h-100 shadow-sm position-relative">
+                <a href="~/Product/Detail/@item.ProductID">
+                    <img src=@((item.Photo == "")? Url.Content("http://localhost:24873/images/products/macbook.png"): Url.Content("http://localhost:24873/images/products/"+@item.Photo)) class="card-img-top" alt="@item.ProductName">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.ProductName</h5>
+                        <p class="card-text">Giá: @string.Format("{0:N0}", @item.Price) VND</p>
+                        <a href="~/Product/Detail/@item.ProductID" class="btn btn-secondary buy-btn">Mua Ngay</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+</div> *@
+
+
+<div class="d-flex justify-content-center mt-4">
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <!-- Previous Page -->
+            <li class="page-item">
+                <a class="page-link" href="javascript:;" aria-label="Previous" onclick="doSearch(prevPage)">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+
+            <!-- Dynamic Page Numbers -->
+            @for (int p = 1; p <= Model.PageCount; p++)
+            {
+                if (p == Model.Page)
+                {
+                    <li class="page-item active" aria-current="page">
+                        <a class="page-link" href="javascript:;">@p</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item">
+                        <a class="page-link" href="javascript:;" onclick="doSearch(@p)">@p</a>
+                    </li>
+                }
+            }
+
+            <!-- Next Page -->
+            <li class="page-item">
+                <a class="page-link" href="javascript:;" aria-label="Next" onclick="doSearch(nextPage)">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.Web\\SV21T1020589.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.BusinessLayers\\SV21T1020589.BusinessLayers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.BusinessLayers\\SV21T1020589.BusinessLayers.csproj",
+        "projectName": "SV21T1020589.BusinessLayers",
+        "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.BusinessLayers\\SV21T1020589.BusinessLayers.csproj",
+        "packagesPath": "C:\\Users\\DRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.BusinessLayers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\SV21T1020589.DataLayers.csproj": {
+                "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\SV21T1020589.DataLayers.csproj"
+              },
+              "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj": {
+                "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\SV21T1020589.DataLayers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\SV21T1020589.DataLayers.csproj",
+        "projectName": "SV21T1020589.DataLayers",
+        "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\SV21T1020589.DataLayers.csproj",
+        "packagesPath": "C:\\Users\\DRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj": {
+                "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj",
+        "projectName": "SV21T1020589.DomainModels",
+        "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj",
+        "packagesPath": "C:\\Users\\DRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.Web\\SV21T1020589.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.Web\\SV21T1020589.Web.csproj",
+        "projectName": "SV21T1020589.Web",
+        "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.Web\\SV21T1020589.Web.csproj",
+        "packagesPath": "C:\\Users\\DRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.BusinessLayers\\SV21T1020589.BusinessLayers.csproj": {
+                "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.BusinessLayers\\SV21T1020589.BusinessLayers.csproj"
+              },
+              "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\SV21T1020589.DataLayers.csproj": {
+                "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DataLayers\\SV21T1020589.DataLayers.csproj"
+              },
+              "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj": {
+                "projectPath": "C:\\Users\\DRA\\Downloads\\bài thực tập\\bài thực tập\\SV21T1020589\\SV21T1020589.DomainModels\\SV21T1020589.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

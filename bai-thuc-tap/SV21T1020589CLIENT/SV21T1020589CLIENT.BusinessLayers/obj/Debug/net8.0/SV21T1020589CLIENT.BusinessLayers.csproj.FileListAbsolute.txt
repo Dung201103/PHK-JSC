@@ -1,0 +1,51 @@
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.deps.json
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.dll
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.pdb
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.dll
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.dll
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.pdb
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.pdb
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.csproj.AssemblyReference.cache
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.AssemblyInfoInputs.cache
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.AssemblyInfo.cs
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T102.06207EDA.Up2Date
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.dll
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\refint\SV21T1020589CLIENT.BusinessLayers.dll
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.pdb
+D:\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\ref\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.deps.json
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.pdb
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.pdb
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.pdb
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.AssemblyInfo.cs
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T102.06207EDA.Up2Date
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\refint\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.pdb
+C:\Users\USER\Downloads\LTUW\LTUW\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\ref\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.deps.json
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.pdb
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DataLayers.pdb
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\bin\Debug\net8.0\SV21T1020589CLIENT.DomainModels.pdb
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.csproj.AssemblyReference.cache
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.AssemblyInfoInputs.cache
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.AssemblyInfo.cs
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.csproj.CoreCompileInputs.cache
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T102.06207EDA.Up2Date
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\refint\SV21T1020589CLIENT.BusinessLayers.dll
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\SV21T1020589CLIENT.BusinessLayers.pdb
+C:\Users\DRA\Downloads\bài thực tập\bài thực tập\SV21T1020589CLIENT\SV21T1020589CLIENT.BusinessLayers\obj\Debug\net8.0\ref\SV21T1020589CLIENT.BusinessLayers.dll

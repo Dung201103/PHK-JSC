@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Carousel -->
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="https://theme.hstatic.net/200000848159/1001200696/14/slideshow_2.jpg?v=374" class="d-block w-100" alt="FW24 Collection">
+        </div>
+        <div class="carousel-item">
+            <img src="https://theme.hstatic.net/200000848159/1001200696/14/slideshow_1.jpg?v=374" class="d-block w-100" alt="Highlight Studio">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div> 
+<!-- Product Section -->
+<section class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h4 class="fw-bold text-center">SẢN PHẨM NỖI BẬT</h4>
+         @* <div class="select-container">
+             <select onchange="location = this.value;">
+                 <option value="#" disabled selected>Sắp Xếp Theo</option>
+                 <option value="productController?categoryID=${cID}&&priceS=ASC">Giá : Tăng Dần</option>
+                 <option value="productController?categoryID=${cID}&&priceS=DESC">Giá : Giảm Dần</option>
+                 <option value="productController?categoryID=${cID}&&nameS=ASC">Tên : A - Z</option>
+                 <option value="productController?categoryID=${cID}&&nameS=DESC">Tên : Z - A</option>
+                 <option value="productController?categoryID=${cID}&&dateS=ASC">Cũ Nhất</option>
+                 <option value="productController?categoryID=${cID}&&dateS=DESC">Mới Nhất</option>
+             </select>
+         </div> *@
+    </div>
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        <!-- Sản phẩm mẫu -->
+        <div class="col">
+            <div class="card h-100 shadow-sm position-relative">
+                <a href="/Product/Detail/515">
+                    <img src="https://product.hstatic.net/200000848159/product/e242f073-fd57-4c1d-a569-c63feece91eb_6956f4426f26435e82b4ede1821a53e5_master.jpg" class="card-img-top" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">HLIGHT CUT OUT T-SHIRT</h5>
+                        <p class="card-text">Giá: 100,000 VND</p>
+                        <a href="/Product/Detail/515" class="btn btn-secondary buy-btn">Mua Ngay</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card h-100 shadow-sm position-relative">
+                <a href="/Product/Detail/515">
+                    <img src="https://product.hstatic.net/200000848159/product/e242f073-fd57-4c1d-a569-c63feece91eb_6956f4426f26435e82b4ede1821a53e5_master.jpg" class="card-img-top" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">HLIGHT CUT OUT T-SHIRT</h5>
+                        <p class="card-text">Giá: 100,000 VND</p>
+                        <a href="/Product/Detail/515" class="btn btn-secondary buy-btn">Mua Ngay</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card h-100 shadow-sm position-relative">
+                <a href="/Product/Detail/515">
+                    <img src="https://product.hstatic.net/200000848159/product/e242f073-fd57-4c1d-a569-c63feece91eb_6956f4426f26435e82b4ede1821a53e5_master.jpg" class="card-img-top" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">HLIGHT CUT OUT T-SHIRT</h5>
+                        <p class="card-text">Giá: 100,000 VND</p>
+                        <a href="/Product/Detail/515" class="btn btn-secondary buy-btn">Mua Ngay</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+         <div class="col">
+            <div class="card h-100 shadow-sm position-relative">
+                <a href="/Product/Detail/515">
+                    <img src="https://product.hstatic.net/200000848159/product/e242f073-fd57-4c1d-a569-c63feece91eb_6956f4426f26435e82b4ede1821a53e5_master.jpg" class="card-img-top" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">HLIGHT CUT OUT T-SHIRT</h5>
+                        <p class="card-text">Giá: 100,000 VND</p>
+                        <a href="/Product/Detail/515" class="btn btn-secondary buy-btn">Mua Ngay</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+    
+</section>
+
+
+

@@ -1,0 +1,80 @@
+﻿<!-- NAV -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<a class="navbar-brand" href="/Home">
+		<img src="https://theme.hstatic.net/200000848159/1001200696/14/logo.png?v=374" alt="Logo">
+	</a>
+	<div class="collapse navbar-collapse">
+		<ul class="navbar-nav">
+			<li class="nav-item active">
+				<a class="nav-link" href="~/Home">Trang Chủ</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="~/Product">Sản Phẩm</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="~/Home/Introduction">Giới Thiệu</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="~/Home/Contact">Liên Hệ</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="~/Order/History">Lịch Sử</a>
+			</li>
+		</ul>
+	</div>
+
+	<div class="navbar-icons">
+
+		<div class="navbar-custom-menu">
+			<ul class="nav navbar-nav">
+				<!-- User Account: style can be found in dropdown.less -->
+				@{
+					var userData = User.GetUserData();
+					if (userData != null)
+					{
+						<li class="nav-item dropdown user-menu">
+							<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								<img src="https://cdn.tuoitre.vn/thumb_w/640/471584752817336320/2024/4/11/img9544-1712820860821905506907.jpeg"
+									 alt="User Image"
+									 class="rounded-circle user-image"
+									 style="width: 30px; height: 30px; object-fit: cover;">
+							</a>
+							<ul class="dropdown-menu dropdown-menu-end">
+								<!-- User image -->
+								<li class="dropdown-header text-center">
+									<img src="https://cdn.tuoitre.vn/thumb_w/640/471584752817336320/2024/4/11/img9544-1712820860821905506907.jpeg"
+										 alt="User Image"
+										 class="rounded-circle mb-2"
+										 style="width: 50px; height: 50px; object-fit: cover;">
+									<p class="mb-0">@userData.CustomerName</p>
+								</li>
+								<li><hr class="dropdown-divider"></li>
+								<!-- Menu Footer -->
+								<li class="text-center">
+									<a href="~/Customer/ChangePassword" class="btn btn-outline-secondary btn-sm w-100 mb-2">Đổi mật khẩu</a>
+									<a href="~/Customer/EditProfile/@userData.CustomerID" class="btn btn-outline-secondary btn-sm w-100 mb-2">Chỉnh sửa thông tin</a>
+									<a href="~/Customer/Logout" class="btn btn-outline-danger btn-sm w-100">Thoát</a>
+								</li>
+							</ul>
+						</li>
+					}
+					else
+					{
+						<!-- Nếu chưa có token, hiển thị icon user -->
+						<li class="nav-item">
+							<a class="nav-link" href="~/Customer/Login">
+								<i class="fa fa-user"></i>
+							</a>
+						</li>
+					}
+				}
+			</ul>
+		</div>
+
+		<a href="~/Order" class="shopping-cart-container nav-link">
+			<i class="fa fa-shopping-cart"></i>
+		</a>
+	</div>
+
+</nav>
+<!-- /#NAV -->

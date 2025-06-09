@@ -1,0 +1,177 @@
+﻿@model SV21T1020589CLIENT.DomainModels.Product
+@{
+}
+<style>
+    .product-image img {
+        width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng cột */
+        height: 250px; /* Chiều cao cố định cho khung hình */
+        object-fit: cover; /* Giữ tỷ lệ và cắt ảnh để vừa khung */
+        border-radius: 8px; /* Tùy chọn bo tròn góc */
+    }
+</style>
+<section class="py-5">
+    <div class="container">
+        <div class="row gx-5">
+            <!-- Phần ảnh 2/3 trang -->
+            <div class="col-lg-8">
+                <div class="row row-cols-1 row-cols-md-2 g-4">
+                    @if (SV21T1020589CLIENT.BusinessLayers.ProductDataService.ListPhotos(Model.ProductID).Count > 0)
+                    {
+                        @foreach (var item in SV21T1020589CLIENT.BusinessLayers.ProductDataService.ListPhotos(Model.ProductID))
+                        {
+                            <div class="col image-detail">
+                                <img src="@((item.Photo == "")? Url.Content("http://localhost:24873/images/products/macbook.png"): Url.Content("http://localhost:24873/images/products/"+@item.Photo))"
+                                     alt="Product-image"
+                                     class="img-fluid">
+                            </div>
+                        }
+                    }else{
+                        for(int i = 0; i < 4; i++)
+                        {
+                            <div class="col image-detail">
+                                <img src="http://localhost:24873/images/products/macbook.png"
+                                     alt="Product-image"
+                                     class="img-fluid">
+                            </div>
+                        }
+                    }
+                            
+                </div>
+            </div>
+            <!-- Phần nội dung 1/3 trang -->
+            <div class="col-lg-4">
+                <h6 class="text-muted text-uppercase">HIGHT LIGHT STUDIO</h6>
+                <h1 class="h3 mb-3 fw-bold text-uppercase">@Model.ProductName</h1>
+                <div class="d-flex flex-column align-items-start">
+                    <div class="fw-bold text-success" style="font-size: 2rem;">
+                        @string.Format("{0:N0}", @Model.Price)  VNĐ             
+                    </div>
+                </div>
+                <div class="d-flex align-items-center mb-4">
+                    <div class="d-flex me-3">
+                        <i class="bi bi-star-fill text-primary"></i>
+                        <i class="bi bi-star-fill text-primary"></i>
+                        <i class="bi bi-star-fill text-primary"></i>
+                        <i class="bi bi-star-fill text-primary"></i>
+                        <i class="bi bi-star text-primary"></i>
+                    </div>
+                    <span class="text-muted">4 Reviews</span>
+                </div>
+
+                <!-- Mô tả sản phẩm -->
+                <div class="mb-4">
+                    <h3>Mô tả sản phẩm:</h3>
+                    <p>@Model.ProductDescription</p>
+                </div>
+
+                <!-- Loại hàng -->
+                <div class="mb-4">
+                    <h5 class="fw-bold">Loại hàng:</h5>
+                    @foreach(var category in SV21T1020589CLIENT.BusinessLayers.CommonDataService.ListOffCategories())
+                    {
+                        if(category.CategoryID == Model.CategoryID)
+                        {
+                            <p>@category.CategoryName</p>
+                        }
+                    }
+                </div>
+
+                <!-- Nhà cung cấp -->
+                <div class="mb-4">
+                    <h5 class="fw-bold">Nhà cung cấp:</h5>
+                    @foreach (var sup in SV21T1020589CLIENT.BusinessLayers.CommonDataService.ListOffSuppliers())
+                    {
+                        if (sup.SupplierID == Model.SupplierID)
+                        {
+                            <p>@sup.SupplierName</p>
+                        }
+                    }
+                </div>
+
+                <!-- Bảng thuộc tính -->
+                <div class="mb-4">
+                    <h5 class="fw-bold">Thuộc tính sản phẩm:</h5>
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Tên thuộc tính</th>
+                                <th>Giá trị</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in SV21T1020589CLIENT.BusinessLayers.ProductDataService.ListAttributes(Model.ProductID))
+                            {
+                                <tr>
+                                    <td>@item.AttributeName</td>
+                                    <td>@item.AttributeValue</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                
+                <!-- Nút Add to Cart -->
+                <form class="fmAddToCart" action="~/Order/AddToCart" method="post">
+                    <input type="hidden" name="ProductID" value="@Model.ProductID" />
+                    <input type="hidden" name="ProductName" value="@Model.ProductName" />
+                     <input type="hidden" name="Photo" value="@Model.Photo" />
+                    <input type="hidden" name="Unit" value="@Model.Unit" />
+                    <input type="hidden" name="SalePrice" value="@Model.Price" />
+
+                    <!-- Row cho Số Lượng và Tùy chọn màu sắc -->
+                    <div class="row mb-4 align-items-center">
+                        <!-- Số lượng -->
+                        <div class="col-md-6">
+                            <label for="quantity">Số lượng:</label>
+                            <input id="quantity" class="form-control" type="number" value="1" min="1" name="Quantity" />
+                        </div>
+
+                        <!-- Tùy chọn màu sắc -->
+                        <div class="col-md-6">
+                            <label class="d-block mb-2">Tùy chọn màu sắc:</label>
+                            <button class="btn btn-sm btn-outline-secondary rounded-circle p-3"></button>
+                            <button class="btn btn-sm btn-secondary rounded-circle p-3 ms-2"></button>
+                            <button class="btn btn-sm btn-primary rounded-circle p-3 ms-2"></button>
+                        </div>
+                    </div>
+
+                    <!-- Nút Thêm Vào Giỏ Hàng -->
+                    <button type="submit" class="btn btn-primary w-100">Thêm Vào Giỏ Hàng</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+
+        $(".fmAddToCart").submit(function (e) {
+            e.preventDefault();
+
+            var url = $(this).prop("action");
+            var method = $(this).prop("method");
+            var data = $(this).serializeArray();
+
+            $.ajax({
+                url: url,
+                type: method,
+                data: data,
+                success: function (result) {
+                    if (result !== "") {
+                        alert(result);
+                    }
+                    else {
+                        window.location.href = "/Order";
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error("Đã xảy ra lỗi: ", error);
+                }
+            });
+        })
+    })
+
+
+</script>

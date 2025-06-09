@@ -1,0 +1,265 @@
+﻿.navbar {
+    padding: 10px 0;
+}
+
+.navbar-brand img {
+    width: 120px; /* Adjust logo size */
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px;
+}
+
+.navbar-nav .nav-link {
+    /*  color: #000 !important; */
+    font-size: 18px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #000 !important;
+    text-decoration: underline;
+}
+
+.navbar-icons {
+    display: flex;
+    align-items: center;
+    margin-right: 10px
+}
+
+.navbar-icons i {
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.shopping-cart-container {
+    position: relative;
+}
+
+.shopping-cart-container i {
+    margin: 0px;
+}
+
+.navbar-icons .btn {
+    padding: 10px;
+    width: auto;
+}
+
+.navbar-icons .btn i {
+    margin: 0px;
+}
+
+.navbar-icons .shopping-cart-container .cart-count {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 50%;
+    padding: 2px 6px;
+    min-width: 20px;
+    text-align: center;
+}
+
+/* Input search styling */
+.navbar-icons .search-input {
+    max-width: 100px;
+    min-width: 100px;
+    width: 100%;
+}
+/* Footer */
+.footer {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+    font-size: 14px;
+    color: #000;
+}
+
+.footer h5 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #000;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* PHẦN CAROUSEL HOME */
+
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 600px; /* Điều chỉnh chiều cao của hình ảnh carousel */
+    object-fit: cover; /* Đảm bảo hình ảnh phủ đầy vùng chứa mà không bị biến dạng */
+}
+
+.carousel-inner {
+    height: 600px; /* Đảm bảo chiều cao của carousel container lớn hơn */
+}
+
+
+/* END PHẦN CAROUSEL  HOME */
+
+/* PRODUCTS */
+
+/* Sản Phẩm */
+.card {
+    position: relative; /* Đặt card làm phần tử cha để các phần tử con có thể định vị tương đối */
+}
+
+    .card a {
+        text-decoration: none; /* Xóa gạch chân khỏi liên kết */
+        color: inherit; /* Giữ nguyên màu sắc văn bản */
+        margin-top: 10px;
+    }
+
+        .card a:hover {
+            transform: scale(1.05); /* Phóng to khi hover */
+            text-decoration: none;
+        }
+
+.discount-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: white;
+    color: red;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: solid 1px red;
+    font-size: 14px;
+}
+
+.sold-out-badge {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: white;
+    color: gray;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: solid 1px gray;
+    font-size: 14px;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+}
+
+/* Cố định kích thước cho ảnh trong thẻ sản phẩm */
+.product-image {
+    width: 100%; /* Ảnh sẽ chiếm toàn bộ chiều rộng của container */
+    height: 200px; /* Cố định chiều cao của ảnh */
+    overflow: hidden; /* Ẩn phần ảnh ngoài vùng chứa */
+    position: relative; /* Đảm bảo vùng chứa ảnh có vị trí cố định */
+}
+
+    /* Đảm bảo ảnh sẽ được cắt sao cho phù hợp với khung */
+    .product-image img {
+        width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng của vùng chứa */
+        height: 100%; /* Cố định chiều cao ảnh */
+        object-fit: cover; /* Cắt ảnh để lấp đầy khung mà không bị méo */
+    }
+
+. image-detail{
+
+}
+/* END PRODUCTS */
+.pagination .page-item.active .page-link {
+    background-color: #0d6efd; /* Màu nền cho trang hiện tại */
+    color: white; /* Màu chữ */
+    border-color: #0d6efd;
+}
+
+.pagination .page-link {
+    color: #0d6efd; /* Màu chữ mặc định */
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.pagination .page-link:hover {
+    background-color: #f1f1f1; /* Màu nền khi hover */
+    color: #0a58ca; /* Màu chữ khi hover */
+}
+
+/* SIDEBAR */
+
+/*.sidebar {
+    position: fixed;
+    top: 80px;
+    left: 0;
+    height: calc(100% - 80px);
+    width: 220px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.sidebar .list-unstyled li {
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+.sidebar .list-unstyled li a {
+    text-decoration: none;  Xóa gạch chân khỏi liên kết 
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #999999;
+}
+
+.sidebar .list-unstyled li a:hover {
+    color: #000 !important;
+    text-decoration: underline;
+}
+
+.content {
+    margin-left: 230px;  Để tránh bị sidebar che 
+}*/
+
+
+/* END SIDEBAR */
+
+/* CHANGE PASSWORD*/
+.card-custom {
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-left {
+    border-radius: 1rem 0 0 1rem;
+    object-fit: cover;
+    height: 100%;
+}
+
+.btn-primary-custom {
+    background-color: #007bff;
+    border: none;
+}
+
+    .btn-primary-custom:hover {
+        background-color: #0056b3;
+    }
+/* END CHANGE PASSWORD*/
